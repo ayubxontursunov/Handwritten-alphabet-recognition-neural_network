@@ -26,7 +26,7 @@ You can install them using pip:
 3. After downloading, extract the contents of the zip file.
 4. Inside the extracted folder, you'll find a CSV file named A_Z Handwritten Data.csv.
 5. Create a directory named data in your project folder.
-6. Move the CSV file (A_Z Handwritten Data.csv) into the data directory you just created.
+6. Move the CSV file (A_Z Handwritten Data.csv) into the `data` directory.
 
 ## Model Overview
 ### Image Preprocessing
