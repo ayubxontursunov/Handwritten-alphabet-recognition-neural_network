@@ -63,5 +63,6 @@ Experiment with different architectures and hyperparameters.
 Expand the dataset to include more samples per letter.
 
 ### Author
-LinkedIn Profile:`www.linkedin.com/in/ayubxontursunov`
+LinkedIn Profile: [https://www.linkedin.com/in/ayubxontursunov](https://www.linkedin.com/in/ayubxontursunov)
+
 
